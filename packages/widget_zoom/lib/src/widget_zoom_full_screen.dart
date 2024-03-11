@@ -107,8 +107,8 @@ class _ImageZoomFullscreenState extends State<WidgetZoomFullscreen>
                     vertical: 5,
                   ),
                   child: Icon(
-                    CupertinoIcons.xmark,
-                    color: Colors.white,
+                    CupertinoIcons.clear_circled,
+                    color: Colors.black87,
                     size: 30,
                   ),
                 ),
